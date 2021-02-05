@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import { useCollectionData } from 'react-firebase-hooks/firestore'
 import SignOut from './signout'
 import firebase from 'firebase/app'
 import NoteBook from './notes'
